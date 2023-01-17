@@ -9,9 +9,9 @@
 
 ### Tech stack:
 
-<img display="inline-block" alt="Bitbucket" width="32px" src="./bitbucket.png" />
+<img align="left" alt="Bitbucket" width="32px" src="./bitbucket.png" />
 
-<img display="inline-block" alt="Jira" width="40px" src="./jira.png" />
+<img align="left" alt="Jira" width="50px" src="./jira.png" />
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
