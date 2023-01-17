@@ -33,4 +33,4 @@
 
 <img alt="Bitbucket" width="32px" src="./bitbucket.png" />
 
-<img alt="Jira" width="32px" src="./jira.png" />
+<img alt="Jira" width="40px" src="./jira.png" />
