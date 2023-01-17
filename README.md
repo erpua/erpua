@@ -1,11 +1,11 @@
 ### Hi there, I'am Ievgen 👋
 
-<h2>To whom it may concern:</h2>
+<h2>A little something about me:</h2>
 
 - 🔭 I’m currently working on <strong>HTML and JavaScript projects</strong>
 - 🌱 I’m currently learning <strong>React.js</strong>
 - 👯 I’m looking forward to <strong>applying my knowledges of HTML 5, CSS3, JavaScript and English (B2)</strong>
-- 📫 How to reach me: <strong>ievgen.tovtin@gmail.com</strong>
+- 📫 How to reach me: <strong>ievgen.tovtin@gmail.com</strong>, <strong>https://www.linkedin.com/in/itovtin/</strong>
 
 <h2>Tech stack:</h2>
 
@@ -37,4 +37,6 @@
 
 <img align="left" alt="Bitbucket" width="32px" src="./bitbucket.png" />
 
-<img align="left" alt="Jira" width="44px" src="./jira.png" />
+<img align="left" alt="Jira" width="40px" src="./jira.png" />
+
+<img align="left" alt="Agile" width="32px" src="./agile.png" />
