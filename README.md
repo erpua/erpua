@@ -35,8 +35,8 @@
 
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="Bitbucket" width="32px" src="./bitbucket.png" />
+<img align="left" alt="Bitbucket" width="36px" src="./bitbucket.png" />
 
-<img align="left" alt="Jira" width="40px" src="./jira.png" />
+<img align="left" alt="Jira" width="32px" src="./jira.png" />
 
-<img align="left" alt="Agile" width="32px" src="./agile.png" />
+<!-- <img align="left" alt="Agile" width="32px" src="./agile.png" /> -->
