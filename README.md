@@ -2,9 +2,9 @@
 
 To whom it may concern:
 
-- 🔭 I’m currently working on HTML and JavaScript projects
+- 🔭 I’m currently working on <strong>HTML and JavaScript projects</strong>
 - 🌱 I’m currently learning React.js
-- 👯 I’m looking forward for opportunity to applying my knowledges of HTML 5, CSS3 and JavaScript and English (B2)
+- 👯 I’m looking forward to applying my knowledges of HTML 5, CSS3, JavaScript and English (B2)
 - 📫 How to reach me: ievgen.tovtin@gmail.com
 - ⚡ Fun fact: ...
 
