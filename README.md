@@ -37,6 +37,6 @@
 
 <img align="left" alt="Bitbucket" width="36px" src="./bitbucket.png" />
 
-<img align="left" alt="Jira" width="32px" src="./jira.png" />
+<img align="left" alt="Jira" width="30px" src="https://www.flaticon.com/free-icons/jira" />
 
-<!-- <img align="left" alt="Agile" width="32px" src="./agile.png" /> -->
+<img align="left" alt="Agile" width="32px" src="https://www.flaticon.com/free-icons/scrum" />
