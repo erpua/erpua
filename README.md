@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on <strong>HTML and JavaScript projects</strong>
 - 🌱 I’m currently learning <strong>React.js</strong>
 - 👯 I’m looking forward to <strong>applying my knowledges of HTML 5, CSS3, JavaScript and English (B2)</strong>
-- 📫 How to reach me: <strong>ievgen.tovtin@gmail.com</strong>, <strong>https://www.linkedin.com/in/itovtin/</strong>
+- 📫 How to reach me: <strong>ievgen.tovtin@gmail.com</strong>
 
 <h2>Tech stack:</h2>
 
