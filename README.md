@@ -3,7 +3,7 @@
 <h2>A little something about me:</h2>
 
 - 🔭 I’m currently working on <strong>HTML and JavaScript projects</strong>
-- 🌱 I’m leveling up <strong>JavaScript</strong>
+- 🌱 I’m leveling up <strong>JavaScript</strong> and learning <strong>Python</strong>
 - 👯 I’m looking forward to <strong>applying my knowledges of HTML 5, CSS3, JavaScript and English (B2)</strong>
 - 📫 How to reach me: <strong>ievgen.tovtin@gmail.com</strong>
 
@@ -17,7 +17,9 @@
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<!-- >
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<-->
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
