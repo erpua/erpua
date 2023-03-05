@@ -1,8 +1,8 @@
-### Hi there, I'am Ievgen 👋
+### Good time of the day, I'am Ievgen 👋
 
 <h2>A little something about me:</h2>
 
-- 🔭 I’m currently working on <strong>HTML and JavaScript projects</strong>
+- 🔭 I’m currently working on <strong>HTML and JavaScript </strong>projects
 - 🌱 I’m leveling up <strong>JavaScript</strong> and learning <strong>Python</strong>
 - 👯 I’m looking forward to <strong>applying my knowledges of HTML 5, CSS3, JavaScript and English (B2)</strong>
 - 📫 How to reach me: <strong>ievgen.tovtin@gmail.com</strong>
