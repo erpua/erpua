@@ -3,7 +3,7 @@
 <h2>A little something about me:</h2>
 
 - 🔭 I’m currently working on <strong>HTML and JavaScript </strong>projects
-- 🌱 I’m leveling up <strong>JavaScript</strong> and learning <strong>Python</strong>
+- 🌱 I’m leveling up <strong>JavaScript</strong>
 - 👯 I’m looking forward to applying my knowledges of <strong>HTML 5, CSS3, JavaScript and English (B2)</strong>
 - 📫 How to reach me: <strong>ievgen.tovtin@gmail.com</strong>
 
