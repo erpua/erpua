@@ -1,6 +1,6 @@
 ### Good time of the day, I'am Ievgen 👋
 
-<h2>A little something about me:</h2>
+<h2>Few details about me:</h2>
 
 - 🔭 I’m currently working on <strong>HTML and JavaScript </strong>projects
 - 🌱 I’m currently studying <strong>LitElement</strong>
