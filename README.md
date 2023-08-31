@@ -2,7 +2,7 @@
 
 <h2>Few details about me:</h2>
 
-- 🔭 I’m currently working on <strong>HTML and JavaScript </strong>projects
+- 🔭 I’m currently working as a <strong>Front End Developer </strong>projects
 - 🌱 I’m currently studying <strong>LitElement</strong>
 - 👯 I’m looking forward to applying my knowledges of <strong>HTML 5, CSS3, JavaScript and English (B2)</strong>
 - 📫 How to reach me: <strong>ievgen.tovtin@gmail.com</strong>
