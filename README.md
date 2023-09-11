@@ -3,9 +3,9 @@
 <h2>Few details about me:</h2>
 
 - 🔭 I am <strong>Front End Developer </strong>
-<!-- >- 🌱 I’m currently studying <strong>LitElement</strong><-->
 - 👯 I’m looking forward to applying my knowledges of <strong>HTML5, CSS3, JavaScript, React.js and LitElement</strong>
 - 📫 How to reach me: <strong>ievgen.tovtin@gmail.com</strong>
+<!-- >- 🌱 I’m currently studying <strong>LitElement</strong><-->
 
 <h2>Tech stack:</h2>
 
