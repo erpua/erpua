@@ -2,9 +2,9 @@
 
 <h2>Few details about me:</h2>
 
-- 🔭 I’m currently working as a <strong>Front End Developer </strong>projects
-- 🌱 I’m currently studying <strong>LitElement</strong>
-- 👯 I’m looking forward to applying my knowledges of <strong>HTML 5, CSS3, JavaScript and English (B2)</strong>
+- 🔭 I am <strong>Front End Developer </strong>
+<!-- >- 🌱 I’m currently studying <strong>LitElement</strong><-->
+- 👯 I’m looking forward to applying my knowledges of <strong>HTML5, CSS3, JavaScript, React.js and LitElement</strong>
 - 📫 How to reach me: <strong>ievgen.tovtin@gmail.com</strong>
 
 <h2>Tech stack:</h2>
